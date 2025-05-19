@@ -85,7 +85,7 @@ nav ul li a{
     flex-direction: column;
     height: 25px;
     width: 150px;
-    margin: 20 auto;
+    margin: 20px auto;
     padding: 0px 20px;
     background-color: rgba(196, 196, 196, 0.224);
     border: 1px solid rgba(255, 255, 255, 0.18);
